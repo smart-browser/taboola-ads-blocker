@@ -1,0 +1,15 @@
+#taboola-below-home-page-nd,
+#taboola-below-article-thumbnails-wide-nd,
+#taboola-below-article-thumbnails-wide-nd-split-num-1,
+.tbl-feed-container,
+.tbl-feed-frame-NONE,
+.taboola-general,
+#taboola-left-rail-thumbnails-nd,
+.taboola-elements,
+.trc_related_container,
+.trc_spotlight_widget,
+.tbl-rtl,
+.trc_elastic,
+.trc_elastic_thumbnails-left-rail {
+    display: none !important;
+}
