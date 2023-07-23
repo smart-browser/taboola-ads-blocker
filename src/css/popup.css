@@ -3,6 +3,7 @@ body {
   min-width: 330px;
   min-height: 330px;
   background-color: blue;
+  border: 2px solid red;
 }
 
 .container {
