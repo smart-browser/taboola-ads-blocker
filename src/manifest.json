@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Taboola Ads Blocker",
-  "version": "1.01",
+  "version": "1.02",
   "description": "A simple way to hide Taboola ads",
   "content_scripts": [
     {
